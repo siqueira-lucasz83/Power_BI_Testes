@@ -1,0 +1,6 @@
+﻿id,marca,modelo,ano,preco,data_venda,vendedor,regiao,mes,ano_venda
+1,TOYOTA,Corolla,2020,95000,2024-01-10,João,Sudeste,1,2024
+2,HONDA,Civic,2019,90000,2024-01-15,Maria,Sul,1,2024
+3,FORD,Focus,2018,70000,2024-02-01,Carlos,Nordeste,2,2024
+4,CHEVROLET,Onix,2022,85000,2024-02-10,Ana,Sudeste,2,2024
+5,HYUNDAI,HB20,2021,80000,2024-03-05,Pedro,Centro-Oeste,3,2024
